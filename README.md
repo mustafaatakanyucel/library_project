@@ -67,13 +67,6 @@ Testleri çalıştırmak için:
 ```bash
 pytest tests/
 ```
-### 💡 Bonus: Commit Geçmişi
-
-Aşama 1 tamamlandı → Terminal uygulaması eklendi
-
-Aşama 2 tamamlandı → Kitap ekleme, silme, listeleme, arama fonksiyonları eklendi
-
-Aşama 3 tamamlandı → FastAPI ile API servisi entegre edildi
 
 ### 📌 Notlar
 
